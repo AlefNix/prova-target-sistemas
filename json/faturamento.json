@@ -1,0 +1,40 @@
+{
+    "janeiro" : [
+    {
+        "dia" : 1,
+        "faturamento" : 1000.00
+    }, 
+    {
+        "dia" : 2,
+        "faturamento" : 1220.00
+    },
+    {
+        "dia" : 3,
+        "faturamento" : 1230.00
+    },
+    {
+        "dia" : 4,
+        "faturamento" : 1100.00
+    },
+    {
+        "dia" : 5,
+        "faturamento" : 2000.00
+    },
+    {
+        "dia" : 6,
+        "faturamento" : 0.00
+    },
+    {
+        "dia" : 7,
+        "faturamento" : 0.00
+    },
+    {
+        "dia" : 8,
+        "faturamento" : 320.05
+    },
+    {
+        "dia" : 9,
+        "faturamento" : 500.00
+    }
+    ]
+}
